@@ -11,7 +11,7 @@ s_r = 8;
 p_r = 3;
 
 %%parametr modyfikacji algorytmu
-sw  = 1; %gdy sw = 1 oryginalny algorytm, sw>1 -> to modyfikacja wagi.
+sw  = 3; %gdy sw = 1 oryginalny algorytm, sw>1 -> to modyfikacja wagi.
 
 f0=imread(imageName);
 
